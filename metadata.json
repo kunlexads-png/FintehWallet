@@ -1,0 +1,6 @@
+{
+  "name": "FinTech Wallet Platform",
+  "description": "Secure digital wallet platform with balances, multiple currencies, virtual cards, money transfers, analytics, bill payments, and investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
